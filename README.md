@@ -1,4 +1,3 @@
-# Laravel 8 Blog project
 ## instructions
     * run npm install 
     * run composer install
